@@ -1,0 +1,5 @@
+Jun 10, 2020 01:17:12 pm : (run Query database) : SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'admin@magazine.com' for key 'email'
+Jun 10, 2020 01:17:14 pm : (run Query database) : SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'admin@magazine.com' for key 'email'
+Jun 10, 2020 04:26:46 pm : (addData) : SQLSTATE[42S02]: Base table or view not found: 1146 Table 'khwopa.newsletters' doesn't exist
+Jun 10, 2020 04:32:58 pm : (run Query database) : SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'admin@magazine.com' for key 'email'
+Jun 10, 2020 04:33:00 pm : (run Query database) : SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'admin@magazine.com' for key 'email'
